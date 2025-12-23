@@ -1,0 +1,12 @@
+PackageIdentifier: HotelDruid.PHPDesktop
+PackageVersion: 3.0.7.20
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/RolfEleveld/hoteldruid/releases/download/v3.0.7.20/hoteldruid-PHPDesktop-3.0.7.20.exe
+    InstallerSha256: E7BFDF67881B9157CEF1877F757354E4D965F0651075C8AA745CA77FFC0B826D
+    InstallerSwitches:
+      Silent: ""
+      SilentWithProgress: ""
+ManifestType: installer
+ManifestVersion: 1.6.0
